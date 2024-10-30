@@ -2,6 +2,7 @@
 Program to user prompt in c structures
 Author:Brian Munene
 Date:24/10/2024
+ADM:CT101/G/25032/24
 */
 
 
