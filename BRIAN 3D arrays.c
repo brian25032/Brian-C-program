@@ -1,6 +1,7 @@
 //3D ARRAYS
 //Author:Brian Munene
 //Date:11//10/2024
+//ADM:CT101/G/25032/24
 
 #include <stdio.h>
 int main(){
