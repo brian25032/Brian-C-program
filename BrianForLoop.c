@@ -1,5 +1,6 @@
 //Program for loop user input
 //Author:Brian Munene
+//ADM:CT101/G/25032/24
 
 #include <stdio.h>
 int main(){
