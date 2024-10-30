@@ -1,7 +1,7 @@
 /*
 Program to write a structure containing a book
 Author:Brian Munene
-ADM:CT101/25032/24
+ADM:CT101/G/25032/24
 */
 #include <stdio.h>
 #include <string.h>
