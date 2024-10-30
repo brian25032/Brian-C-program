@@ -1,4 +1,6 @@
 //Programm to calculate fine for overdue library books
+//Author:Brian Munene
+//ADM:CT101/G/25032/24
 #include <stdio.h>
 
 int main(){
